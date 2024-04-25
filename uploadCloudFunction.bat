@@ -1,0 +1,2 @@
+"C:\Program Files\nodejs\node.exe" "E:\yuandao_subapp\genApi.js"
+"C:\Program Files (x86)\Tencent\微信web开发者工具\cli.bat" cloud functions deploy --e cloud1-0geyt34fceada00a --n fun --r --project "E:\yuandao_subapp" --report_first --report
